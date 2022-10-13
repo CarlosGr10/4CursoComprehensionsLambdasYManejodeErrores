@@ -54,3 +54,8 @@ $ pip3 freeze > requeriments.txt
 $ pip3 install -r requeriments.txt
 ```
 
+## Listas y diccionarios anidados
+
+Por lo regular deben de haber diccionarios dentro de listas 
+y listas dentro de dicionarios
+
