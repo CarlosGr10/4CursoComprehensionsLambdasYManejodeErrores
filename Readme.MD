@@ -59,3 +59,10 @@ $ pip3 install -r requeriments.txt
 Por lo regular deben de haber diccionarios dentro de listas 
 y listas dentro de dicionarios
 
+## List comprehensions
+Simplifica lo que es un ciclo for cuando se le agregan elementos a uuna lista
+<hr>
+
+![](https://i.imgur.com/7qANRot.png)
+
+
