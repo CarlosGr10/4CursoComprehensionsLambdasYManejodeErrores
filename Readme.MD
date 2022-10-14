@@ -65,4 +65,8 @@ Simplifica lo que es un ciclo for cuando se le agregan elementos a uuna lista
 
 ![](https://i.imgur.com/7qANRot.png)
 
+## Dictionary comprehensions
+Es una estructura similar a los list comprehension
+<hr>
 
+![](https://i.imgur.com/Cxno69l.png)
