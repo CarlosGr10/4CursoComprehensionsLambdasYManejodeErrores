@@ -70,3 +70,14 @@ Es una estructura similar a los list comprehension
 <hr>
 
 ![](https://i.imgur.com/Cxno69l.png)
+
+## Funciones anónimas: lambda
+
+Estas se caracterizan por que no tienen un identificador
+
+![](https://i.imgur.com/WjeOCmF.png)
+
+
+
+
+  
