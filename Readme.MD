@@ -78,6 +78,71 @@ Estas se caracterizan por que no tienen un identificador
 ![](https://i.imgur.com/WjeOCmF.png)
 
 
+## Funciones de orden superior 
+
+Son funciones que llaman a otra funcion como parametro
+
+![](https://i.imgur.com/CQ1gUjx.png)
+
+Tenemos estas funciones superiores clsicas como:
+
+- Filter
+
+- Map
+
+- Reduce
+
+### Ejemplo1:
+
+Guardar todos los impares de una lista
+
+### Resolviendo con list comprehension
+
+![](https://i.imgur.com/F2l23bw.png)
+
+### Resolviendo con filter
+
+![](https://i.imgur.com/3R5HJpU.png)
+
+### Ejemplo2:
+
+Elevar al cuadrado elementos de una lista
+
+### Resolviendo con list comprehension
+
+![](https://i.imgur.com/Zq0REXO.png)
+
+### Resolviendo don map
+
+![](https://i.imgur.com/mS1rElI.png)
+
+### Ejemplo3:
+
+Multiplicar todos los elementos de una lista
+
+### Resolviendo con un ciclo
+
+![](https://i.imgur.com/N7qUKrK.png)
+
+### Resolviendo con reduce 
+
+![](https://i.imgur.com/ujlXuV1.png)
+
+## Forma grafica de entender las funcionew de orden superior 
+
+![](https://i.imgur.com/CM7dyzJ.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
