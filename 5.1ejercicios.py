@@ -37,3 +37,14 @@ print(the_meal_creatures)
 fishes = list(filter(lambda fish: fish['type'] == 'fish', aquarium_creatures))
 print(fishes)
 
+# Uso de list comprenhensions
+# Es una forma de obtener datos de una lista de diccionarios
+
+tank_max = [i['name'] for i in aquarium_creatures if i['tank number'] > 20]
+print(tank_max)
+
+all_fishes = [i['species'] for i in aquarium_creatures if i['type'] == 'fish']
+print(all_fishes)
+
+
+
