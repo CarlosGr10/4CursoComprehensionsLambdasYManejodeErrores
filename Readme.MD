@@ -36,7 +36,7 @@ $ source venv/bin/activate
 Son modulos de otras personas
 y Pip (Package Inataller fdor python)
 
-Comando para ver las dependencias de nuetro proyecto 
+Comando para ver las dependencias de nuetro proyecto
 
 ```python=3
 $ pip freeze
@@ -56,17 +56,21 @@ $ pip3 install -r requeriments.txt
 
 ## Listas y diccionarios anidados
 
-Por lo regular deben de haber diccionarios dentro de listas 
+Por lo regular deben de haber diccionarios dentro de listas
 y listas dentro de dicionarios
 
 ## List comprehensions
+
 Simplifica lo que es un ciclo for cuando se le agregan elementos a uuna lista
+
 <hr>
 
 ![](https://i.imgur.com/7qANRot.png)
 
 ## Dictionary comprehensions
+
 Es una estructura similar a los list comprehension
+
 <hr>
 
 ![](https://i.imgur.com/Cxno69l.png)
@@ -77,8 +81,7 @@ Estas se caracterizan por que no tienen un identificador
 
 ![](https://i.imgur.com/WjeOCmF.png)
 
-
-## Funciones de orden superior 
+## Funciones de orden superior
 
 Son funciones que llaman a otra funcion como parametro
 
@@ -124,25 +127,34 @@ Multiplicar todos los elementos de una lista
 
 ![](https://i.imgur.com/N7qUKrK.png)
 
-### Resolviendo con reduce 
+### Resolviendo con reduce
 
 ![](https://i.imgur.com/ujlXuV1.png)
 
-## Forma grafica de entender las funcionew de orden superior 
+## Forma grafica de entender las funciones de orden superior
 
 ![](https://i.imgur.com/CM7dyzJ.png)
 
+# Los errores en el código
 
+https://docs.python.org/3/tutorial/errors.html
 
+![](https://i.imgur.com/INmh7fZ.png)
 
+Traceback: La forma correcta de leerlo es de abajo hacia arriba
 
+# Debugging
 
+Para vsc tenemos el debugger que nos ayuda a revisar linea a linea nuestro codigo
 
+![](https://i.imgur.com/noxUSLj.png)
 
+![](https://i.imgur.com/DMrUwVK.png)
 
+Debugg paso a paso
 
+![](https://i.imgur.com/Qq3hm4X.png)
 
+![](https://i.imgur.com/6cfXD7I.png)
 
-
-
-  
+Read points , Ejecutar en una linea en especifico 
