@@ -173,3 +173,10 @@ Read points , Ejecutar en una linea en especifico
 Casos en la que podemos utilizar un finally
 Cerrar un archivo, Cerrar una conexión , Liberar recursos externos
 
+# Assert statements
+
+Son afirmaciones dentro de python, son expreciones que combinan variables con operadores 
+
+![](https://i.imgur.com/HNrcoXf.png)
+
+![](https://i.imgur.com/nXou6r3.png)
