@@ -180,3 +180,26 @@ Son afirmaciones dentro de python, son expreciones que combinan variables con op
 ![](https://i.imgur.com/HNrcoXf.png)
 
 ![](https://i.imgur.com/nXou6r3.png)
+
+# ¿Cómo trabajar con archivos?
+
+Tenemos archivos de texto (gris) y binarios (verde)
+
+![](https://i.imgur.com/LhG44KN.png)
+
+### Modos de Apertura
+
+r -> Solo lectura
+r+ -> Lectura y escritura
+w -> Solo escritura. Sobre escribe el archivo si existe. Crea el archivo si no existe
+w+ -> Escritura y lectura. Sobre escribe el archivo si existe. Crea el archivo si no existe
+a -> Añadido (agregar contenido). Crea el archivo si éste no existe
+a+ -> Añadido (agregar contenido) y lectura. Crea el archivo si éste no existe.
+
+
+Manejador contextual, controlar flujos
+with nos apoya en caso de error el archivo no se rompa 
+
+![](https://i.imgur.com/3q3GM0N.png)
+
+# Trabajando con archivos de texto en Python
