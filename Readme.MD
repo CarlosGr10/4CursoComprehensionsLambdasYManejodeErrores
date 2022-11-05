@@ -200,6 +200,14 @@ a+ -> Añadido (agregar contenido) y lectura. Crea el archivo si éste no existe
 Manejador contextual, controlar flujos
 with nos apoya en caso de error el archivo no se rompa 
 
+# Trabajando con archivos de texto en Python
+
 ![](https://i.imgur.com/3q3GM0N.png)
 
-# Trabajando con archivos de texto en Python
+# Reto \(^-^)/ 
+
+Realizar el juego del ahorcado con todo lo aprendido en el curso
+
+<small>Nota: El recurso es el archivo de palabras</small>
+
+![](https://i.imgur.com/ZcRPCN1.png)
